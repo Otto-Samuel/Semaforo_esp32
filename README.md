@@ -1,4 +1,4 @@
-# <div align="center">🚦Semáforo com Arduino e Display OLED🚦</div>
+# <div align="center">🚦Semáforo com Arduino e Display OLED🚦</div
 
 <div align="center"><img src="https://us.123rf.com/450wm/radowitz/radowitz2006/radowitz200600134/148509292-sem%C3%A1foro-pedonal-na-jun%C3%A7%C3%A3o-da-rua-na-cidade.jpg?ver=6" alt="Descrição do GIF" width="50%" height="300" ></div>
 
